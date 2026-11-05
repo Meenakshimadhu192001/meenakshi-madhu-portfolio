@@ -1,5 +1,10 @@
 # Meenakshi Madhu | AI/ML Portfolio
 
+
+## Live Portfolio
+
+[View My Portfolio]-[https://meenakshi-madhu-portfolio.vercel.app]
+
 A responsive, dark-mode-aware portfolio for an AI/ML Engineer, built with Next.js (App Router) and Tailwind CSS. Content is drawn only from the candidate's resume and LinkedIn PDFs.
 
 ## Tech stack
